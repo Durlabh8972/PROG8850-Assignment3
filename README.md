@@ -47,10 +47,3 @@ python test_login.py
 - `test_login.py` - Selenium test
 - `README.md` - Instructions
 
-## Notes
-- Replace MySQL credentials as needed.
-- Take screenshots of:
-  - Web form
-  - DB entry in MySQL
-  - Selenium script running output
-
